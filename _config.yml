@@ -8,9 +8,9 @@ baseurl: '/'
 author:
   name: 'Ankan Biswas'
   email: support@ankanbiswas.in
-  twitter_username: talk2ankan
-  github_username:  talk2ankan
-  linkedin_username:  talk2ankan
+  twitter_username: meliodus
+  github_username:  meliodus
+  linkedin_username:  meliodus
 
 # Build settings
 destination: _site
