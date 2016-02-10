@@ -1,12 +1,12 @@
 # Site settings
 title: Meliodus Inc.
-description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
+description: 'A FREELANCE PARADISE FOR WEB DEVELOPERS AND DESIGNERS. WE VALUE TIME, QUALITY AND EXCELLENCE.'
 url: 'http://meliodus.com' 
 baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
 
 author:
-  name: 'Ankan Biswas'
+  name: 'Meliodus'
   email: support@ankanbiswas.in
   twitter_username: meliodus
   github_username:  meliodus
