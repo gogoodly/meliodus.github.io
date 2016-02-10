@@ -2,7 +2,6 @@
 layout: post
 title:  "Web Development"
 date:   2016-01-08 15:04:23
-categories: [Web Solution]
 tags: [website, design, development, wordpress, codeigniter, joomla, opencart]
 ---
 Want to establish an effective online identity? But afraid of making an investment?
