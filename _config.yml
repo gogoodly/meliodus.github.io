@@ -1,13 +1,13 @@
 # Site settings
 title: Meliodus Inc.
-description: 'Freelance Paradise For Web Developers and Designers. <br> Email ~ support@meliodus.com <br>Call ~ (888) 966-7265'.
-url: 'http://meliodus.com' 
+description: 'Freelance Paradise For Web Developers and Designers. <br> Email ~ support@meliodus.com <br>Call ~ (321) 121-3211'
+url: 'http://meliodus.com'
 baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
 
 author:
   name: 'Meliodus'
-  email: support@ankanbiswas.in
+  email: support@meliodus.com
   twitter_username: meliodus
   github_username:  meliodus
   linkedin_username:  meliodus
