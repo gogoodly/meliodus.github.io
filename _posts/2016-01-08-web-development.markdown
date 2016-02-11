@@ -19,10 +19,5 @@ Invest in affordable website design services to start your online venture.
 <li><h4 class="title-4 color-6 tcenter margin-top-20">Basic Portfolio Website with 3500 INR</h4></li>
 <li><h4 class="title-4 color-6 tcenter margin-top-20">E-commerce website with 8000 INR.</h4></li>
 <ul>
-
-
-
-
-    
     
 
