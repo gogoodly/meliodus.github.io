@@ -1,5 +1,5 @@
 # Site settings
-title: Meliodus Inc.
+title: Meliodus.com
 description: 'Freelance Paradise For Web Developers and Designers. <br> Email ~ support@meliodus.com <br>Call ~ (321) 121-3211'
 url: 'http://meliodus.com'
 baseurl: '/'
@@ -9,8 +9,8 @@ author:
   name: 'Meliodus'
   email: support@meliodus.com
   twitter_username: meliodus
-  github_username:  meliodus
-  linkedin_username:  meliodus
+  #github_username:  meliodus
+  #linkedin_username:  meliodus
 
 # Build settings
 destination: _site
